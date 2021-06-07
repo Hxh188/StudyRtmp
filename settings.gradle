@@ -1,0 +1,4 @@
+include ':MediaProjection'
+include ':video_rtmp'
+include ':app'
+rootProject.name = "StudyRtmp"
